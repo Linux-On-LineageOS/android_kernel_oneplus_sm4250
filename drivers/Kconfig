@@ -235,4 +235,7 @@ source "drivers/energy_model/Kconfig"
 
 source "drivers/oneplus/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
